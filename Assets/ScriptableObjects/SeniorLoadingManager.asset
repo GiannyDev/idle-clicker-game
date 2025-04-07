@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4f117203421c145af2e5efff856935, type: 3}
+  m_Name: SeniorLoadingManager
+  m_EditorClassIdentifier: 
+  ManagerType: 1
+  LevelColor: {r: 0.21150766, g: 0.6973807, b: 0.9150943, a: 1}
+  BoostType: 1
+  BoostIcon: {fileID: -1772244045117237821, guid: b8fd42b6fc6f3604f941d1a77d0a59af,
+    type: 3}
+  BoostDuration: 5
+  BoostDescription: x5 Load Speed
+  BoostValue: 4
